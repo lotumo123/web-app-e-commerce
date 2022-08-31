@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"name": "web-app-e-commerce",
+			"path": "."
+		},
+		{
+			"name": "Web",
+			"path": "../../../Desktop/Web"
+		},
+		{
+			"path": "../../../Desktop/Web/Customer_pages"
+		},
+		{
+			"path": "../../../Desktop/Web/img"
+		},
+		{
+			"path": "../../../Desktop/Web/Login"
+		},
+		{
+			"path": "../../../Desktop/Web/Myaccount"
+		},
+		{
+			"path": "../../../Desktop/Web/regis_pages"
+		},
+		{
+			"path": "../../../Desktop/Web/resources"
+		},
+		{
+			"path": "../../../Desktop/Web/vendors"
+		},
+		{
+			"path": "../../../Desktop/Web/vendors_page"
+		}
+	],
+	"settings": {}
+}
